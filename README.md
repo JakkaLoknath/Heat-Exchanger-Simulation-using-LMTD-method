@@ -1,6 +1,6 @@
 # Heat-Exchanger-Simulation
 
-This program calculates the Logarithmic Mean Temperature Difference(LMTD) of a heat exchanger by using python. 
+This program calculates the Logarithmic Mean Temperature Difference(LMTD) of a heat exchanger by using Python. 
 
 #Input
 It allows users to input parameters such as the hot fluid inlet and outlet temperatures, cold fluid inlet and outlet temperatures.
