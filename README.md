@@ -1,4 +1,4 @@
-# Heat-Exchanger-Simulation
+# Heat-Exchanger-Simulation-using-LMTD-method
 
 This program calculates the Logarithmic Mean Temperature Difference(LMTD) of a heat exchanger by using Python. 
 
